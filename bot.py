@@ -1,3 +1,6 @@
+'''
+VkBot
+'''
 import vk
 from time import sleep
 import requests as req
